@@ -1,5 +1,5 @@
 # Testing in Ruby
-## Running TestCast from shell
+## Running TestCase from shell
 
 ```
  ruby -I . test_code.rb
